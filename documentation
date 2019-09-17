@@ -1,0 +1,13 @@
+Projektdokumentation
+Sidan innehåller:
+En startsida med h1 & h2 för seo
+puffar och karusel för filmer nyheter, mest köpta, högst betyg och kommande filmer.
+En filmsida där man kan boka biljett till alla filmer.
+En medlemsida där man kan signa upp som medlem eller logga in, görs med en modal.
+Samt en kontaktsida där man kan fylla i ett formulär, även denna öppnas med modal.
+Sidan har även en navbar som innehåller länkar till domolika sidorna och städerna somhar biograf.
+samt ett sökfält.
+Footern innhåller copyrights, sitemap, sociala länkar och nyhetsbrev.
+
+Jag har använt mig av html, css, bootstrap samt jquery när jag byggt sidan.
+Jquery pluggins utöver bootstrap är carousel och jquery modal.

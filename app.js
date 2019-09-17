@@ -1,0 +1,12 @@
+const express = require('express');
+const app = express();
+
+app.get('/index', (req, res) => {
+   res.send(index);
+});
+
+var connect = require('connect');
+var serveStatic = require('serve-static');
+connect().use(serveStatic(__dirname)).listen(8080, function(){
+    console.log('Server running on 8080...');
+});
